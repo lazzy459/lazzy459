@@ -14,6 +14,7 @@ Buat kode dalam bahasa pemrograman untuk menghitung:
 Tulis kode untuk menghitung sudut ketiga segitiga berdasarkan dua sudut yang diketahui dengan menggunakan rumus:
 Sudut Ketiga = 180° - (Sudut Pertama + Sudut Kedua).
 
+
 4. Kode untuk Menghitung Selisih Tanggal dalam Hari
 Buat kode yang menghitung selisih antara dua tanggal dalam satuan hari dengan langkah berikut:
 - Konversikan tanggal menjadi format waktu UNIX,
@@ -21,6 +22,7 @@ Buat kode yang menghitung selisih antara dua tanggal dalam satuan hari dengan la
 - Konversikan hasil selisih kembali ke dalam satuan hari.
 - Kode untuk Mencetak Inisial Nama dalam Huruf Kapital
 - Implementasikan kode yang menerima input berupa nama lengkap, kemudian:
+
 
 5. Pisahkan nama menjadi array berdasarkan spasi,
 - Looping setiap elemen array untuk memisahkan karakter pada setiap kata,
