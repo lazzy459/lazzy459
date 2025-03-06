@@ -1,19 +1,29 @@
-# WCD-Task-1
-# WCD Task 1
+Tugas #1 – Web Client Development
 
-Tugas pertama untuk pelajaran "Web Client Development"
-1. kode untuk mencari luas persegi panjang ->
-   Dibuat dengan menerapkan rumus untuk mencari luas persegi panjang yang diterapkan pada bahasa pemrograman.
-   
-2. kode untuk mencari diameter, keliling, dan luas lingkaran ->
-   Dibuat dengan menerapkan rumus diameter, keliling, dan luas dari lingkaran yang diterapkan pada bahasa pemrograman.
-   
-3. kode untuk mencari sudut segitiga jika diketahui dua sudutnya ->
-   Dibuat dengan menerapkan rumus untuk mencari sudut persegi panjang yang diterapkan pada bahasa pemrograman.
-   
-4. kode untuk mendapatkan selisih tanggal dalam hari ->
-   Dibuat dengan memasukan tanggal yang dikonversikan menjadi unix, kemudian dikurang antara tanggal akhir dan tanggal awal, kemudian di konversi kembali dari unix menjadi angka.
-   
-5. kode untuk mencetak inisial nama Anda dalam huruf kapital ->
-   Dibuat dengan memasukkan nama kemudian di dipisahkan menjadi sebuah array, kemudian di looping. dalam looping itu dipisahkan menjadi per-character kemudian diambil urutan ke-0nya terakhir urutan terkahir di
-   masukan ke sebuah array. Untuk menampilkannya array tersebut dijalankan fungsi join.
+1. Kode untuk Menghitung Luas Persegi Panjang
+Implementasikan kode dalam bahasa pemrograman untuk menghitung luas persegi panjang dengan menerapkan rumus:
+Luas = Panjang × Lebar.
+
+2. Kode untuk Menghitung Diameter, Keliling, dan Luas Lingkaran
+Buat kode dalam bahasa pemrograman untuk menghitung:
+- Diameter: Diameter = 2 × Jari-jari,
+- Keliling: Keliling = 2 × π × Jari-jari,
+- Luas: Luas = π × Jari-jari².
+
+3.Kode untuk Menghitung Sudut Segitiga Jika Diketahui Dua Sudutnya
+Tulis kode untuk menghitung sudut ketiga segitiga berdasarkan dua sudut yang diketahui dengan menggunakan rumus:
+Sudut Ketiga = 180° - (Sudut Pertama + Sudut Kedua).
+
+4. Kode untuk Menghitung Selisih Tanggal dalam Hari
+Buat kode yang menghitung selisih antara dua tanggal dalam satuan hari dengan langkah berikut:
+- Konversikan tanggal menjadi format waktu UNIX,
+- Hitung selisih antara tanggal akhir dan tanggal awal,
+- Konversikan hasil selisih kembali ke dalam satuan hari.
+- Kode untuk Mencetak Inisial Nama dalam Huruf Kapital
+- Implementasikan kode yang menerima input berupa nama lengkap, kemudian:
+
+5. Pisahkan nama menjadi array berdasarkan spasi,
+- Looping setiap elemen array untuk memisahkan karakter pada setiap kata,
+- Ambil karakter pertama dari setiap kata,
+- Gabungkan seluruh inisial menggunakan fungsi join(), dan
+- Tampilkan hasil inisial dalam huruf kapital.
