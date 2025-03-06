@@ -1,4 +1,4 @@
-Tugas #1 – Web Client Development
+# Tugas #1 – Web Client Development
 
 1. Kode untuk Menghitung Luas Persegi Panjang
 Implementasikan kode dalam bahasa pemrograman untuk menghitung luas persegi panjang dengan menerapkan rumus:
